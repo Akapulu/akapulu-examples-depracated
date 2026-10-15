@@ -1,11 +1,4 @@
-
-**Deprecated:** This repo are no longer maintained. Use the standalone example repos instead:
-
-- [prebuilt-ui](https://github.com/Akapulu/prebuilt-ui) — minimal prebuilt `AkapuluConversation` demo
-- [prebuilt-ui-styled](https://github.com/Akapulu/prebuilt-ui-styled) — styled prebuilt UI + post-call review
-- [customized-ui](https://github.com/Akapulu/customized-ui) — custom hooks + Daily video UI + post-call review
-
-
+**Deprecated.** This repository is not maintained. The current public example is [akapulu-examples](https://github.com/Akapulu/akapulu-examples).
 
 # Akapulu Labs Examples
 
